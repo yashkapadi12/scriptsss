@@ -2,7 +2,7 @@
 
 # is a Single comment 
 << comment
-This is a scripts
+This isdsa scripts
 of IF ELSE condition 
 in Shell Script 
 
